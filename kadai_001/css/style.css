@@ -78,7 +78,7 @@ img {
 .about {
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrapp;
+    flex-wrap: wrap;
 }
 
 ul {
